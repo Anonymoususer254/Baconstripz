@@ -1,1 +1,6 @@
-Certified idiot
+```lua
+print(Melon.Profile.Intro)
+
+-- printing...
+```
+
